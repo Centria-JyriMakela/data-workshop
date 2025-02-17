@@ -24,4 +24,4 @@ python -V
 7. Kirjoita ja suorita solut Notebookissa suoraan VS Codessa.
 
 ### Attribuutiot
-Kauhajoen ja Hämeenlinnan vuoden 2023 ostolasku datat on haettu Avoindata.fi-palvelusta
+Kauhajoen ja Hämeenlinnan kuntien vuoden 2023 ostolasku datat on haettu Avoindata.fi-palvelusta ja niiden lisenssi on CC BY 4.0
